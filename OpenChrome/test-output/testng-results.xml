@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62038" started-at="2017-04-21T12:02:14Z" finished-at="2017-04-21T12:03:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62038" started-at="2017-04-21T12:02:14Z" finished-at="2017-04-21T12:03:16Z">
+      <class name="technexus.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:technexus.NewTest@6f7fd0e6]" name="beforeMethod" is-config="true" duration-ms="20075" started-at="2017-04-21T17:32:14Z" finished-at="2017-04-21T17:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="setapplication()[pri:0, instance:technexus.NewTest@6f7fd0e6]" name="setapplication" duration-ms="41907" started-at="2017-04-21T17:32:34Z" finished-at="2017-04-21T17:33:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setapplication -->
+      </class> <!-- technexus.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
