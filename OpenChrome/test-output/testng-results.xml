@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="62038" started-at="2017-04-21T12:02:14Z" finished-at="2017-04-21T12:03:16Z">
+  <suite name="Default suite" duration-ms="38098" started-at="2017-04-28T11:42:11Z" finished-at="2017-04-28T11:42:49Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="62038" started-at="2017-04-21T12:02:14Z" finished-at="2017-04-21T12:03:16Z">
+    <test name="Default test" duration-ms="38098" started-at="2017-04-28T11:42:11Z" finished-at="2017-04-28T11:42:49Z">
       <class name="technexus.NewTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:technexus.NewTest@6f7fd0e6]" name="beforeMethod" is-config="true" duration-ms="20075" started-at="2017-04-21T17:32:14Z" finished-at="2017-04-21T17:32:34Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:technexus.NewTest@77caeb3e]" name="beforeMethod" is-config="true" duration-ms="15907" started-at="2017-04-28T17:12:11Z" finished-at="2017-04-28T17:12:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="setapplication()[pri:0, instance:technexus.NewTest@6f7fd0e6]" name="setapplication" duration-ms="41907" started-at="2017-04-21T17:32:34Z" finished-at="2017-04-21T17:33:16Z">
+        <test-method status="PASS" signature="setapplication()[pri:0, instance:technexus.NewTest@77caeb3e]" name="setapplication" duration-ms="22166" started-at="2017-04-28T17:12:27Z" finished-at="2017-04-28T17:12:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setapplication -->
